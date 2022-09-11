@@ -19,8 +19,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhinukabedin&show_icons=true&locale=en&layout=compact" alt="jhinukabedin" /></p>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://fb.com/majhinuk">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
