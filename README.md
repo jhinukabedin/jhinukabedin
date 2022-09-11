@@ -30,3 +30,10 @@
   </a>
 </div>
 [Website](http://www.serverless.com) • [Email Updates](http://eepurl.com/b8dv4P) • [Gitter](https://gitter.im/serverless/serverless) • [Forum](http://forum.serverless.com) • [Meetups](https://github.com/serverless-meetups/main) • [Twitter](https://twitter.com/goserverless) • [Facebook](https://www.facebook.com/serverless) • [Contact Us](mailto:hello@serverless.com)
+
+♥️  I enjoy programming and sharing knowledge
+💻  Most used line of code console.log("hello world")
+🤔  I’m looking for people who can help me with Outstanding Video ideas and executions.
+📧  How to reach me: sayhitorainmaker@gmail.com.
+⚡  Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
+
